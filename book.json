@@ -1,0 +1,73 @@
+{
+  "title":"Kafka Eagle",
+  "description": "Kafka Eagle Manual",
+  "author": "smartloli",
+  "generator": "site",
+  "language": "en",
+  "links": {
+    "sidebar": {
+
+    }
+  },
+  "plugins": [
+    "-disqus",
+    "search",
+    "tbfed-pagefooter",
+    "baidu",
+    "insert-logo",
+    "github",
+    "alerts",
+    "-donate",
+    "flexible-alerts",
+    "custom-favicon",
+    "hide-element",
+    "pageview-count",
+    "-sharing",
+    "-page-toc-button",
+    "auto-scroll-table",
+    "popup"
+  ],
+  "pluginsConfig": {
+    "insert-logo": {
+      "url": "../res/ke_portal_logo.png",
+      "style": "background: black; max-height: 50px; min-height: 50px"
+    },
+    "page-toc-button": {
+      "maxTocDepth": 2,
+      "minTocSize": 2
+    },
+    "hide-element": {
+      "elements": [".gitbook-link"]
+    },
+    "flexible-alerts": {
+      "note": {
+        "label": "Notes"
+      },
+      "tip": {
+        "label": "Tips"
+      },
+      "warning": {
+        "label": "Warning"
+      },
+      "danger": {
+        "label": "Danger"
+      }
+    },
+    "favicon": "res/favicon.ico",
+    "tbfed-pagefooter": {
+      "copyright": "Copyright &copy <a href='http://www.kafka-eagle.org/'>smartloli</a> 2023",
+      "modify_label": "Modify: ",
+      "modify_format": "YYYY-MM-DD HH:mm:ss",
+      "utcOffset": "8"
+    },
+    "baidu": {
+      "token": "8f818225b47832c7c649070bf46855a5"
+    },
+    "fontsettings": {
+      "size": 2
+    },
+    "github": {
+      "url": "https://github.com/smartloli/EFAK"
+    }
+  }
+}
