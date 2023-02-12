@@ -20,6 +20,7 @@ Unsure if EFAK is for you? Watch EFAK in action on [play.efak.top](http://play.e
 
 ## Contact:
 
-* Gmail: [smartloli.org@gmail.com](mailto:smartloli.org@gmail.com)
-* Github : [Kafka Eagle](https://github.com/smartloli/efak)
-* QQ Group : [424769183](http://shang.qq.com/wpa/qunwpa?idkey=b07c12828ed6963fe79078c78bbd1aba7e61b8f5d8fc5ee4ed26809f40b35c37)
+* **Gmail**: [smartloli.org@gmail.com](mailto:smartloli.org@gmail.com)
+* **Github** : [Kafka Eagle](https://github.com/smartloli/efak)
+* **QQ Group** : [424769183](http://shang.qq.com/wpa/qunwpa?idkey=b07c12828ed6963fe79078c78bbd1aba7e61b8f5d8fc5ee4ed26809f40b35c37)
+
